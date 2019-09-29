@@ -1,5 +1,8 @@
 This Project is about PayPal account online which is good for any online transections. It provides security for your online money because you don't have to give any of your bank details on the website.
+
 I have included 4 pages on this applicataion which includes: home page, contact, offer up, and sign up page. I have added some faeatures like : typography, colors, buttons, and froms on these pages.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
